@@ -1,0 +1,9 @@
+{
+  "name": "anan",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "node render/render.mjs",
+    "calendar": "node render/build-calendar-md.mjs"
+  }
+}
